@@ -1,0 +1,17 @@
+{
+  "name": "graphql_lesson1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rhea-sys/graphql_lesson1.git",
+  "author": "Rhea Dieberger <rdieberger@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.0.1",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
